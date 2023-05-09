@@ -1,4 +1,4 @@
-### Olá, pessoas 👋
+### Olá, pessoas 🐜
 
 - 🌱 Estudando análise de dados e python.
 
