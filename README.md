@@ -7,12 +7,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaxavier&hide)](https://github.com/anuraghazra/github-readme-stats)-->
 ##
 
-<div align="center" >
-  <!--<h2 align='center'><i><a href="https://github.com/fescarvalho/github-readme-activity-graph">Activity Graph 📈</i></h2>-->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Cauaxavier&theme=react-dark&point=132239&bg-color=132239&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Xavier-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Xavier-Jupyter" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
