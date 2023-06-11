@@ -1,6 +1,6 @@
 ### Olá, pessoas 🐜
 
-- 🌱 Estudando análise de dados e python.
+- 🌱 Estudando análise de dados com python e back-end.
 
 <!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Cauaxavier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Cauaxavier/github-readme-stats#gh-dark-mode-only)
 
