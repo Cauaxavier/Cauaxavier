@@ -1,6 +1,6 @@
 ### Olá, pessoas 🐜
 
-- 🌱 Estudando análise de dados com python e back-end.
+- 🌱 Estudando Nodejs, Nestjs, Go e Postgresql.
 
 <!--[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Cauaxavier&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Cauaxavier/github-readme-stats#gh-dark-mode-only)
 
