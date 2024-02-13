@@ -43,12 +43,14 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
 
+<!--
 ### GitHub Stats ⚡
+
 <div>
 <a href="https://github.com/Cauaxavier">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaxavier&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cauaxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
   
 ### Entre em contato comigo 📭
   
