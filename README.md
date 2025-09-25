@@ -9,11 +9,6 @@
 
 <!--Atualmente eu trabalho como [Cargo] @ [Empresa atual] -->
 
-🔎 Gosto de curiosidades, músicas e animações.
-
-🌱  No meu tempo livre gosto de caminhar e passar o tempo conversando na praça.
-
-
 ### **Tecnologias e Ferramentas**🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
