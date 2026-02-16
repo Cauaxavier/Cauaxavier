@@ -46,6 +46,11 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cauaxavier&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cauaxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> -->
+
+## Projetos em Destaque
+
+*   **Sistema Bancário:** A API de um sistema bancário oferece uma aplicação completa para a criação e a manipulação das contas dos usuários, onde é possível criar e fazer a manutenção das contas dos usuários.([sistema-bancario](https://github.com/Cauaxavier/sistema-bancario))
+*   **Rede Social:** Uma api com as funcionalidades de uma rede social ([rede-social]([https://github.com/NunesNicolas/merchanTrack](https://github.com/Cauaxavier/rede-social)))
   
 ### Entre em contato comigo 📭
   
