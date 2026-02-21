@@ -50,7 +50,7 @@
 ### Projetos em Destaque
 
 *   **Sistema Bancário:** A API de um sistema bancário oferece uma aplicação completa para a criação e a manipulação das contas dos usuários, onde é possível criar e fazer a manutenção das contas dos usuários.([sistema-bancario](https://github.com/Cauaxavier/sistema-bancario))
-*   **Rede Social:** Uma api com as funcionalidades de uma rede social ([rede-social]([https://github.com/NunesNicolas/merchanTrack](https://github.com/Cauaxavier/rede-social)))
+*   **Rede Social:** Uma api com as funcionalidades de uma rede social ([rede-social](https://github.com/Cauaxavier/rede-social))
   
 ### Entre em contato comigo 📭
   
